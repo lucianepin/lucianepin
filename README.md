@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on AI (industry cases) projects
 - 📫 How to reach me (send me a DR: lucianepin@gmail.com)
 - 😄 Pronouns: She
-- ⚡ Fun fact: trying to get used to Github as a community platform - not so easy to interact with it...let's see if I meet people and similar interests :-)
+- ⚡ Fun fact: I'm working on getting accustomed to GitHub as a community platform —it's not the easiest to navigate for interactions. I'm hopeful that I’ll connect with people who share similar interests! 🙂
 
 <!---
 lucianepin/lucianepin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
